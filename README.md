@@ -1,4 +1,5 @@
 # Super Store Analysis #
+# 📊 Overview
 This project analyzes the Superstore dataset to understand sales performance, profitability, discounting, regional performance, and potential areas of business risk.
 
 The analysis focuses on identifying where the business is generating revenue but losing profitability and provides recommendations based on the findings.
