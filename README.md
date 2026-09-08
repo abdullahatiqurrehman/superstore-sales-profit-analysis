@@ -81,7 +81,7 @@ Data Visualization
 
 # 🔍 Key Business Findings
 
-1. Heavy Discounts Suppress Profitability: 
+# 1. Heavy Discounts Suppress Profitability: 
 
 The analysis shows that increasing discounts can significantly reduce profitability.
 
@@ -95,7 +95,7 @@ Require approval for discounts above 20%
 
 Monitor high-discount orders closely
 
-2. Furniture Has Low Profitability: 
+# 2. Furniture Has Low Profitability: 
 
 Furniture contributes approximately 32% of sales but only 6% of total profit.
 
@@ -111,7 +111,7 @@ Investigate low-margin products
 
 Focus on improving category-level profitability
 
-3. Tables Are a Major Profit Leak: 
+# 3. Tables Are a Major Profit Leak: 
 
 Tables are identified as the largest loss-making sub-category, with approximately -$17.7K in profit.
 
@@ -127,7 +127,7 @@ Consider bundling Tables with profitable products
 
 Investigate product-level costs and margins
 
-4. Certain States Are Destroying Profit: 
+# 4. Certain States Are Destroying Profit: 
 
 Three states with significant negative profit were identified:
 
@@ -151,7 +151,7 @@ Analyze product mix and shipping costs
 
 Develop state-level profitability strategies
 
-5. Regional Performance
+# 5. Regional Performance
 
 The West region is the strongest contributor to profit.
 
